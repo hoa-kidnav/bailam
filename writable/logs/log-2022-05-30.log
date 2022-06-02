@@ -1,0 +1,235 @@
+CRITICAL - 2022-05-30 02:55:20 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:43:25 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:44:21 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:45:14 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:45:15 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:46:35 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:46:36 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:50:02 --> Undefined variable: dataLayout
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 50, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->add()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-30 08:50:04 --> Undefined variable: dataLayout
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 50, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->add()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-30 08:50:33 --> Call to undefined method App\Services\UserService::validateAddUser()
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(58): App\Services\UserService->addUserInfo(Object(CodeIgniter\HTTP\IncomingRequest))
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->create()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-30 08:50:57 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:51:14 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:51:15 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:51:42 --> Undefined variable: dataLayout
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 40, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-30 08:51:49 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:52:23 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:52:24 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:52:37 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:52:53 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:52:54 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:52:54 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:54:04 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 08:56:38 --> Call to undefined method App\Services\UserService::validateAddUser()
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(58): App\Services\UserService->addUserInfo(Object(CodeIgniter\HTTP\IncomingRequest))
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->create()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-30 10:15:10 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(50): App\Controllers\BaseController->loadMasterLayout(Array, 'Th\xC3\xAAm t\xC3\xA0i kho\xE1...', 'admin/pages/use...')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->add()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-30 10:20:38 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(50): App\Controllers\BaseController->loadMasterLayout(Array, 'Th\xC3\xAAm t\xC3\xA0i kho\xE1...', 'admin/pages/use...')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->add()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

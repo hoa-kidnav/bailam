@@ -1,0 +1,301 @@
+CRITICAL - 2022-05-23 02:16:42 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:10 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:12 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:12 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:17:12 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:20:39 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:20:40 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:20:40 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:20:40 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:20:40 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:20:41 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:20:41 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:27 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:28 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:28 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:29 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:29 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:29 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:29 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:43 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:43 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:44 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:44 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:44 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:21:44 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 02:39:08 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:23:05 --> Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP)
+#0 D:\xampp\htdocs\testcodeigniter4\app\Views\admin\pages\main.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'D:\\xampp\\htdocs...', 9, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/mai...', Array, true)
+#4 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(13): view('admin/pages/mai...')
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#7 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-23 03:25:57 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:37:23 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:37:24 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:37:24 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:37:24 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:37:24 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:37:25 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:47:43 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:49:58 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:08 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:09 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:09 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:09 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:09 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:09 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:10 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:10 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:10 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:10 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:10 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:11 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:51:12 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:52 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:53 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:53 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:54 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:54 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:54 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:54 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:54 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 03:59:55 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:02:57 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:03:41 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:03:41 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:03:42 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:03:42 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:03:42 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:03:42 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:03:42 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:03:42 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:08:44 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:17:53 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:31:41 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:32:09 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:33:27 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:34:37 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:35:19 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:35:38 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:37:56 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:39:07 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:39:09 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:40:21 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:40:23 --> Assignments can only happen to writable values
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-23 04:40:39 --> Undefined variable: title
+#0 D:\xampp\htdocs\testcodeigniter4\app\Views\admin\main.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 9, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#4 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(12): view('admin/main', Array)
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#7 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-23 04:41:38 --> Too few arguments to function App\Controllers\BaseController::loadMasterLayout(), 1 passed in D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php on line 11 and exactly 3 expected
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(11): App\Controllers\BaseController->loadMasterLayout(Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-23 04:44:19 --> Undefined variable: title
+#0 D:\xampp\htdocs\testcodeigniter4\app\Views\admin\main.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 9, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#4 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(12): view('admin/main', Array)
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#7 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

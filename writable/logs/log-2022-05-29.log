@@ -1,0 +1,64 @@
+CRITICAL - 2022-05-29 04:29:25 --> Call to a member function getAllUsers() on null
+#0 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-29 04:31:32 --> Class 'App\Services\UserModel' not found
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(17): App\Services\UserService->__construct()
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(809): App\Controllers\Admin\UserController->__construct()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-29 04:41:01 --> Undefined variable: users
+#0 D:\xampp\htdocs\testcodeigniter4\app\Views\admin\pages\user\list.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 24, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#4 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...')
+#5 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(38): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array)
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#7 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#8 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-05-29 04:43:39 --> Argument 1 passed to view() must be of the type string, array given, called in D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php on line 60
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view(Array, 'admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', Array, 'admin/pages/use...', Array, Array)
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 04:48:53 --> Undefined variable: cssFiles
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 12, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-29 09:12:42 --> Invalid file: admin/pages/user/list.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pages/use...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(40): App\Controllers\BaseController->loadMasterLayout(Array, 'Danh S\xC3\xA1ch tai ...', 'admin/pages/use...', Array, Array, Array)
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-29 10:11:53 --> Undefined property: App\Controllers\Admin\UserController::$require
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 57, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->create()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-29 10:12:46 --> Undefined property: App\Controllers\Admin\UserController::$require
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 57, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->create()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

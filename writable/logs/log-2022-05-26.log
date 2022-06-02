@@ -1,0 +1,136 @@
+CRITICAL - 2022-05-26 08:03:17 --> Invalid file: pages/home.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/home.php')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('pages/home', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(58): view('pages/home')
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(11): App\Controllers\BaseController->loadMasterLayout(Array, 'Trang chu', 'pages/home')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-26 08:03:19 --> Invalid file: pages/home.php
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/home.php')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('pages/home', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(58): view('pages/home')
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(11): App\Controllers\BaseController->loadMasterLayout(Array, 'Trang chu', 'pages/home')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-26 08:13:12 --> syntax error, unexpected ':', expecting ')'
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(13): view('admin/main', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-26 08:15:29 --> syntax error, unexpected '?>'
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(13): view('admin/main', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-26 08:43:55 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(20): view('admin/main', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-26 08:44:03 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(20): view('admin/main', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-26 08:46:02 --> Undefined variable: jsFiles
+#0 D:\xampp\htdocs\testcodeigniter4\app\Views\admin\main.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 45, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#4 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(20): view('admin/main', Array)
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#7 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-26 08:46:38 --> Undefined variable: jsFiles
+#0 D:\xampp\htdocs\testcodeigniter4\app\Views\admin\main.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 45, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#4 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(20): view('admin/main', Array)
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#7 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-26 08:47:28 --> Undefined variable: jsFiles
+#0 D:\xampp\htdocs\testcodeigniter4\app\Views\admin\main.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 45, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(210): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/main', Array, true)
+#4 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(20): view('admin/main', Array)
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->list()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#7 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-26 09:01:32 --> syntax error, unexpected 'base_url' (T_STRING), expecting ']'
+#0 D:\xampp\htdocs\testcodeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-26 09:02:24 --> syntax error, unexpected 'base_url' (T_STRING), expecting ']'
+#0 D:\xampp\htdocs\testcodeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-26 09:04:25 --> syntax error, unexpected 'base_url' (T_STRING), expecting ']'
+#0 D:\xampp\htdocs\testcodeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\testcodeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-26 09:16:17 --> Undefined variable: cssFiles
+#0 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 11, Array)
+#1 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-26 10:36:15 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+ERROR - 2022-05-26 10:49:11 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+ERROR - 2022-05-26 10:50:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'NOT NULL,
+	`name` varchar NOT NULL,
+	CONSTRAINT `pk_users` PRIMARY KEY(`id`)
+...' at line 4
+ERROR - 2022-05-26 10:57:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'NOT NULL,
+	`name` varchar NOT NULL,
+	CONSTRAINT `pk_users` PRIMARY KEY(`id`)
+...' at line 4

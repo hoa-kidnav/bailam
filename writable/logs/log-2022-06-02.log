@@ -1,0 +1,28 @@
+CRITICAL - 2022-06-02 10:36:45 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/use...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\BaseController.php(60): view('admin/pages/use...', Array)
+#3 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(50): App\Controllers\BaseController->loadMasterLayout(Array, 'Th\xC3\xAAm t\xC3\xA0i kho\xE1...', 'admin/pages/use...')
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->add()
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#6 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-02 10:38:25 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-06-02 10:38:25 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 D:\xampp\htdocs\testcodeigniter4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xampp\htdocs\testcodeigniter4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xampp\htdocs\testcodeigniter4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('hoangbmt522@gma...', 'email', Array, NULL)
+#4 D:\xampp\htdocs\testcodeigniter4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'hoangbmt522@gma...', Array, Array)
+#5 D:\xampp\htdocs\testcodeigniter4\app\Services\UserService.php(70): CodeIgniter\Validation\Validation->run()
+#6 D:\xampp\htdocs\testcodeigniter4\app\Services\UserService.php(25): App\Services\UserService->validateAddUser(Object(CodeIgniter\HTTP\IncomingRequest))
+#7 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\UserController.php(58): App\Services\UserService->addUserInfo(Object(CodeIgniter\HTTP\IncomingRequest))
+#8 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\UserController->create()
+#9 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UserController))
+#10 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}

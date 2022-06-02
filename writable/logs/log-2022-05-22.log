@@ -1,0 +1,49 @@
+CRITICAL - 2022-05-22 06:41:40 --> Class 'App\Controllers\Admin\BaseController' not found
+#0 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(518): include_once()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Admin/Home')
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Admin/Home')
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-22 06:44:02 --> Class 'App\Controllers\Admin\BaseController' not found
+#0 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(518): include_once()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Admin/Home')
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Admin/Home')
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-22 06:44:03 --> Class 'App\Controllers\Admin\BaseController' not found
+#0 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(518): include_once()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Admin/Home')
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Admin/Home')
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-22 06:44:04 --> Class 'App\Controllers\Admin\BaseController' not found
+#0 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(518): include_once()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Admin/Home')
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Admin/Home')
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-22 06:44:04 --> Class 'App\Controllers\Admin\BaseController' not found
+#0 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(518): include_once()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Admin/Home')
+#2 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Admin/Home')
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-22 10:19:20 --> syntax error, unexpected ':', expecting ')'
+#0 D:\xampp\htdocs\testcodeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xampp\htdocs\testcodeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('admin/pages/mai...', Array, true)
+#2 D:\xampp\htdocs\testcodeigniter4\app\Controllers\Admin\HomeController.php(12): view('admin/pages/mai...')
+#3 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(832): App\Controllers\Admin\HomeController->index()
+#4 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\HomeController))
+#5 D:\xampp\htdocs\testcodeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\testcodeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
